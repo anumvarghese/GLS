@@ -21,6 +21,6 @@ Steps to run the test case
 Description
 Django used as a server for GLS and it will render home page (index.html). 
 
-Guide.json data used in player.js to display the tooltip and jquery used selector json value as a configuration to find the element and display the content.
+Guide.json data used in player.js to find the element and display the content in  the tooltip.
 
    	
